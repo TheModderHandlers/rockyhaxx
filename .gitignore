@@ -1,0 +1,17 @@
+build/
+*.o
+*.obj
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+.vs/
+.vscode/
+.idea/
+CMakeSettings.json
+out/
+CMakeFiles/
+rockyhaxx/*.dll

@@ -1,0 +1,3 @@
+EXPORTS
+    jeode_native_init
+    jeode_native_shutdown
